@@ -1,2 +1,8 @@
 "# DWeb" 
-"Este repositorio es para el m¢dulo de desarrollo web." 
+"Este repositorio es para el mï¿½dulo de desarrollo web." 
+
+| NOMBRE                | GITHUB                           |
+|-----------------------|----------------------------------|
+| JOHAN                 | (https://github.com/Crowmauler13)|
+| ERNERSTO              | (https://github.com/xadsCas)     |
+| CRISPIN               | (https://github.com/Krispinz)    |
